@@ -1,0 +1,8 @@
+Metric,Value
+Training Samples,60000.0
+Testing Samples,10000.0
+Image Height,28.0
+Image Width,28.0
+Number of Classes,10.0
+Training Memory (MB),44.86083984375
+Testing Memory (MB),7.476806640625

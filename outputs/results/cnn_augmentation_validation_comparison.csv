@@ -1,0 +1,3 @@
+Model,Validation Accuracy,Validation Loss
+Baseline CNN,0.9898333549499512,0.03905599191784859
+CNN with Data Augmentation,0.9868333339691162,0.041586995124816895

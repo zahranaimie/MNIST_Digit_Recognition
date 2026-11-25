@@ -1,0 +1,2 @@
+Selected Model,Validation Accuracy,Validation Loss,Test Accuracy,Test F1 Score
+Baseline CNN,0.9898333549499512,0.03905599191784859,0.9898333333333333,0.9898302543930496

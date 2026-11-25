@@ -1,0 +1,7 @@
+Metric,Value
+Missing Values in Images,0.0
+Missing Values in Labels,0.0
+Duplicate Training Images,0.0
+Unique Training Images,60000.0
+Pixel Mean,33.318421449829934
+Pixel Standard Deviation,78.56748998339798
